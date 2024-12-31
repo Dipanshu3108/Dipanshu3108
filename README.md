@@ -5,13 +5,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Dipanshu Singh</h1>
 <h3 align="center">A passionate computer/software enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Astro Seed - GreenEye: Autonomous Drones for Plant Health Monitoring and 3D Mapping.**
+- 🌱 I’m currently learning **ML/AI tools and frameworks** and devloping small ML/AI projects.
 
-- 🌱 I’m currently learning **ML/AI tools and frame work**
+- 🔭 I worked on **Astro Seed - GreenEye: Autonomous Drones for Plant Health Monitoring and 3D Mapping.**
 
 - 👯 I’m looking to collaborate on **ML/AI projects**
 
-- 📫 How to reach me **dipanshu3108@gmail.com | dsingh47@asu.edu**
+- 📫 How to reach me **dipanshu3108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
