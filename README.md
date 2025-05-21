@@ -3,13 +3,9 @@ Dipanshu3108/Dipanshu3108 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Dipanshu Singh</h1>
-<h3 align="center">A passionate computer/software enthusiast from India</h3>
+<h3 align="center">Developer.</h3>
 
-- 🌱 I’m currently learning **ML/AI tools and frameworks** and devloping small ML/AI projects.
-
-- 🔭 I worked on **Astro Seed - GreenEye: Autonomous Drones for Plant Health Monitoring and 3D Mapping.**
-
-- 👯 I’m looking to collaborate on **ML/AI projects**
+- 🌱 Developing AI to make my life easy.
 
 - 📫 How to reach me **dipanshu3108@gmail.com**
 
