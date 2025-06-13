@@ -35,8 +35,3 @@ You can click the Preview link to take a look at your changes.
 - **Project 1**: [Ideas Den](https://ideasden.com/) - Place for people to share ideas
 <!-- - **Project 2**: [Project Name](your-project-link-here) - Brief description -->
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipanshu3108&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
