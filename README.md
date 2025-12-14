@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <a href="https://dipanshusingh.onrender.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipanshu-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu-singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipanshu-singh-ba698820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu-singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dipanshu3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipanshu3108" height="30" width="40" /></a>
 </p>
 
