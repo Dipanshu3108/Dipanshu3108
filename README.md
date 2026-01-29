@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Featured Projects
 
 <!-- Add your project links here -->
-- **Project 1**: [Ideas Den](https://ideasden.com/) - Place for people to share ideas
+- **Project**: [Ideas Den](https://ideasden.com/) - Place for people to share ideas
 <!-- - **Project 2**: [Project Name](your-project-link-here) - Brief description -->
 
